@@ -1,0 +1,234 @@
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\EntityFramework.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Images.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.pdb
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\EntityFramework.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csprojAssemblyReference.cache
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csproj.CopyComplete
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.pdb
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.pdb
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Omega\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.pdb
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.pdb
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Images.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.pdb
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.pdb
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csprojAssemblyReference.cache
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csproj.CopyComplete
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Archive\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.pdb
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Data.pdb
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Images.v19.2.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.OgrenciTakip.Model.pdb
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\Omega.Ots.Common.pdb
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Data.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csprojAssemblyReference.cache
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.csproj.CopyComplete
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.dll
+D:\OneDrive\hp-envy\Desktop\Omega - Döviz\Omega.Ots.Data\obj\Debug\Omega.Ots.Data.pdb

@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0734F5CF-5794-4E0A-9B41-17B3715278F8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Omega.Ots.Model</RootNamespace>
+    <AssemblyName>Omega.OgrenciTakip.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.DataAccess.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attributes\Kod.cs" />
+    <Compile Include="Attributes\ZorunluAlan.cs" />
+    <Compile Include="Dto\AileBilgileriDto.cs" />
+    <Compile Include="Dto\AvukatDto.cs" />
+    <Compile Include="Dto\BankaDto.cs" />
+    <Compile Include="Dto\BankaHesapDto.cs" />
+    <Compile Include="Dto\BelgeHareketleriDto.cs" />
+    <Compile Include="Dto\BelgeSecimDto.cs" />
+    <Compile Include="Dto\BilgiNotlariDto.cs" />
+    <Compile Include="Dto\CariDto.cs" />
+    <Compile Include="Dto\DovizKurDto.cs" />
+    <Compile Include="Dto\EposBilgileriDto.cs" />
+    <Compile Include="Dto\EvrakBilgileriDto.cs" />
+    <Compile Include="Dto\FaturaDto.cs" />
+    <Compile Include="Dto\GecikmeAciklamalariDto.cs" />
+    <Compile Include="Dto\GeriOdemeBilgileriDto.cs" />
+    <Compile Include="Dto\HizmetBilgileriDto.cs" />
+    <Compile Include="Dto\HizmetDto.cs" />
+    <Compile Include="Dto\IletisimBilgileriDto.cs" />
+    <Compile Include="Dto\IletisimDto.cs" />
+    <Compile Include="Dto\IndirimBilgileriDto.cs" />
+    <Compile Include="Dto\IndirimDto.cs" />
+    <Compile Include="Dto\IndiriminUygulanacagiHizmetBilgileriDto.cs" />
+    <Compile Include="Dto\KardesBilgilerDto.cs" />
+    <Compile Include="Dto\KasaDto.cs" />
+    <Compile Include="Dto\KullaniciBirimYetkileriDto.cs" />
+    <Compile Include="Dto\KullaniciDto.cs" />
+    <Compile Include="Dto\KullaniciParametreDto.cs" />
+    <Compile Include="Dto\KurumBilgileriDto.cs" />
+    <Compile Include="Dto\MakbuzDto.cs" />
+    <Compile Include="Dto\MakbuzHareketleriDto.cs" />
+    <Compile Include="Dto\OdemeBilgileriDto.cs" />
+    <Compile Include="Dto\OgrenciDto.cs" />
+    <Compile Include="Dto\OkulDto.cs" />
+    <Compile Include="Dto\PromosyonBilgileriDto.cs" />
+    <Compile Include="Dto\RaporDto.cs" />
+    <Compile Include="Dto\RaporlarDto.cs" />
+    <Compile Include="Dto\RolYetkileriDto.cs" />
+    <Compile Include="Dto\SinavBilgileriDto.cs" />
+    <Compile Include="Dto\SinifDto.cs" />
+    <Compile Include="Dto\SubeDto.cs" />
+    <Compile Include="Dto\TahakkukDto.cs" />
+    <Compile Include="Entities\BaglantiAyarlari.cs" />
+    <Compile Include="Entities\DonemParametre.cs" />
+    <Compile Include="Entities\Doviz.cs" />
+    <Compile Include="Entities\DovizKur.cs" />
+    <Compile Include="Entities\GecikmeAciklamalari.cs" />
+    <Compile Include="Entities\AileBilgi.cs" />
+    <Compile Include="Entities\AileBilgileri.cs" />
+    <Compile Include="Entities\Avukat.cs" />
+    <Compile Include="Entities\Banka.cs" />
+    <Compile Include="Entities\BankaHesap.cs" />
+    <Compile Include="Entities\BankaSube.cs" />
+    <Compile Include="Entities\Base\BaseEntity.cs" />
+    <Compile Include="Entities\Base\BaseEntityDurum.cs" />
+    <Compile Include="Entities\Base\BaseHareketEntity.cs" />
+    <Compile Include="Entities\Base\Interfaces\IBaseEntity.cs" />
+    <Compile Include="Entities\Base\Interfaces\IBaseHareketEntity.cs" />
+    <Compile Include="Entities\BilgiNotlari.cs" />
+    <Compile Include="Entities\Cari.cs" />
+    <Compile Include="Entities\EposBilgileri.cs" />
+    <Compile Include="Entities\EvrakBilgileri.cs" />
+    <Compile Include="Entities\Fatura.cs" />
+    <Compile Include="Entities\GeriOdemeBilgileri.cs" />
+    <Compile Include="Entities\HizmetBilgileri.cs" />
+    <Compile Include="Entities\Iletisim.cs" />
+    <Compile Include="Entities\IletisimBilgileri.cs" />
+    <Compile Include="Entities\Indirim.cs" />
+    <Compile Include="Entities\IndirimBilgileri.cs" />
+    <Compile Include="Entities\IndiriminUygulanacagiHizmetBilgileri.cs" />
+    <Compile Include="Entities\KardesBilgileri.cs" />
+    <Compile Include="Entities\Kasa.cs" />
+    <Compile Include="Entities\DokumParametleri.cs" />
+    <Compile Include="Entities\Donem.cs" />
+    <Compile Include="Entities\Filtre.cs" />
+    <Compile Include="Entities\Gorev.cs" />
+    <Compile Include="Entities\Hizmet.cs" />
+    <Compile Include="Entities\HizmetTuru.cs" />
+    <Compile Include="Entities\Il.cs" />
+    <Compile Include="Entities\Ilce.cs" />
+    <Compile Include="Entities\IndirimTuru.cs" />
+    <Compile Include="Entities\IptalNedeni.cs" />
+    <Compile Include="Entities\Isyeri.cs" />
+    <Compile Include="Entities\Kontenjan.cs" />
+    <Compile Include="Entities\Kullanici.cs" />
+    <Compile Include="Entities\KullaniciBirimYetkileri.cs" />
+    <Compile Include="Entities\KullaniciParametre.cs" />
+    <Compile Include="Entities\Kurum.cs" />
+    <Compile Include="Entities\KurumBilgileri.cs" />
+    <Compile Include="Entities\MailParametre.cs" />
+    <Compile Include="Entities\Makbuz.cs" />
+    <Compile Include="Entities\MakbuzHareketleri.cs" />
+    <Compile Include="Entities\Meslek.cs" />
+    <Compile Include="Entities\OdemeBilgileri.cs" />
+    <Compile Include="Entities\OdemeTuru.cs" />
+    <Compile Include="Entities\Ogrenci.cs" />
+    <Compile Include="Entities\Okul.cs" />
+    <Compile Include="Entities\OzelKod.cs" />
+    <Compile Include="Entities\Promosyon.cs" />
+    <Compile Include="Entities\PromosyonBilgileri.cs" />
+    <Compile Include="Entities\Rapor.cs" />
+    <Compile Include="Entities\Rehber.cs" />
+    <Compile Include="Entities\Rol.cs" />
+    <Compile Include="Entities\RolYetki.cs" />
+    <Compile Include="Entities\RolYetkileri.cs" />
+    <Compile Include="Entities\Servis.cs" />
+    <Compile Include="Entities\SinavBilgileri.cs" />
+    <Compile Include="Entities\Sinif.cs" />
+    <Compile Include="Entities\SinifGrup.cs" />
+    <Compile Include="Entities\Sube.cs" />
+    <Compile Include="Entities\Tahakkuk.cs" />
+    <Compile Include="Entities\Tesvik.cs" />
+    <Compile Include="Entities\Yakinlik.cs" />
+    <Compile Include="Entities\Evrak.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\YabanciDil.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Omega.Ots.Common\Omega.Ots.Common.csproj">
+      <Project>{46ac19a6-5358-48c2-8139-c640a1c0cee8}</Project>
+      <Name>Omega.Ots.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

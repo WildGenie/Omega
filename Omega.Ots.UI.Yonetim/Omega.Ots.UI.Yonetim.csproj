@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CE14405A-DCEB-4A9E-84CE-EB95F55D6216}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Omega.Ots.UI.Yonetim</RootNamespace>
+    <AssemblyName>Yönetim Modülü</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\red_omega_admin_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v19.2" />
+    <Reference Include="DevExpress.Data.v19.2" />
+    <Reference Include="DevExpress.Utils.v19.2" />
+    <Reference Include="DevExpress.Sparkline.v19.2.Core" />
+    <Reference Include="DevExpress.XtraBars.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.2" />
+    <Reference Include="DevExpress.Printing.v19.2.Core" />
+    <Reference Include="DevExpress.XtraGrid.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\BaseForms\BaseEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BaseForms\BaseEditForm.Designer.cs">
+      <DependentUpon>BaseEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\YonetimGeneralFunctions.cs" />
+    <Compile Include="GeneralForms\AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralForms\AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralForms\BekleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralForms\BekleForm.Designer.cs">
+      <DependentUpon>BekleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralForms\GirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralForms\GirisForm.Designer.cs">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralForms\KurumEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralForms\KurumEditForm.Designer.cs">
+      <DependentUpon>KurumEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IStatusBarAciklama.cs" />
+    <Compile Include="Interfaces\IStatusBarKisayol.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Show\YonetimShowEditForms.cs" />
+    <Compile Include="UserControls\Controls\MyButtonEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyCalcEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\EmailTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyCardEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyCheckedComboBoxEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyCheckEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyColorPickEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyComboBoxEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyDataLayoutControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyDateEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyFilterControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyIbanTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyKodTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyMemoEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyPictureEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MySimpleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MySpinEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyTcKimlikNoTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyTelefonNoTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Controls\MyToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Grid\MyBandedGridControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Grid\MyGridControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Navigators\InsUptNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Navigators\InsUptNavigator.Designer.cs">
+      <DependentUpon>InsUptNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Navigators\LongNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Navigators\LongNavigator.Designer.cs">
+      <DependentUpon>LongNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Navigators\SmallNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Navigators\SmallNavigator.Designer.cs">
+      <DependentUpon>SmallNavigator.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\BaseForms\BaseEditForm.resx">
+      <DependentUpon>BaseEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralForms\AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralForms\BekleForm.resx">
+      <DependentUpon>BekleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralForms\GirisForm.resx">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralForms\KurumEditForm.resx">
+      <DependentUpon>KurumEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControls\Navigators\InsUptNavigator.resx">
+      <DependentUpon>InsUptNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Navigators\LongNavigator.resx">
+      <DependentUpon>LongNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Navigators\SmallNavigator.resx">
+      <DependentUpon>SmallNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="..\Omega.Ots.UI.Win\App.config">
+      <Link>App.config</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\red_omega_admin_icon.ico" />
+    <Content Include="Resources\addfooter_16x16.png" />
+    <Content Include="Resources\addfooter_32x32.png" />
+    <Content Include="Resources\apply_16x16.png" />
+    <Content Include="Resources\apply_32x32.png" />
+    <Content Include="Resources\article_16x16.png" />
+    <Content Include="Resources\article_32x32.png" />
+    <None Include="Resources\background.jpg" />
+    <Content Include="Resources\close_16x16.png" />
+    <None Include="Resources\close_16x161.png" />
+    <Content Include="Resources\close_32x32.png" />
+    <None Include="Resources\close_32x321.png" />
+    <Content Include="Resources\convert_16x16.png" />
+    <Content Include="Resources\convert_32x32.png" />
+    <Content Include="Resources\crossdatasourcefiltering _16x16.png" />
+    <Content Include="Resources\crossdatasourcefiltering_32x32.png" />
+    <Content Include="Resources\currency_16x16.png" />
+    <None Include="Resources\deletelist_16x161.png" />
+    <None Include="Resources\deletelist_32x321.png" />
+    <Content Include="Resources\design_16x16.png" />
+    <Content Include="Resources\design_16x161.png" />
+    <Content Include="Resources\design_32x32.png" />
+    <Content Include="Resources\design_32x321.png" />
+    <Content Include="Resources\doctor_16x16.png" />
+    <Content Include="Resources\doctor_16x161.png" />
+    <Content Include="Resources\documentmap_32x321.png" />
+    <Content Include="Resources\employeeexcellence_16x16.png" />
+    <Content Include="Resources\employeeexcellence_16x161.png" />
+    <Content Include="Resources\employeethank_16x16.png" />
+    <Content Include="Resources\employeewelcome_16x16.png" />
+    <Content Include="Resources\emptytablerowseparator_16x16.png" />
+    <Content Include="Resources\emptytablerowseparator_32x32.png" />
+    <Content Include="Resources\exporttodocx_32x32.png" />
+    <Content Include="Resources\exporttopdf_32x32.png" />
+    <Content Include="Resources\exporttotxt_32x32.png" />
+    <Content Include="Resources\exporttoxls_32x32.png" />
+    <Content Include="Resources\export_16x16.png" />
+    <Content Include="Resources\export_32x32.png" />
+    <Content Include="Resources\group_16x16.png" />
+    <Content Include="Resources\group_32x32.png" />
+    <Content Include="Resources\historyitem_16x16.png" />
+    <Content Include="Resources\historyitem_32x32.png" />
+    <Content Include="Resources\insertrangefilter_16x16.png" />
+    <None Include="Resources\insertrangefilter_16x161.png" />
+    <Content Include="Resources\insertrangefilter_32x32.png" />
+    <None Include="Resources\insertrangefilter_32x321.png" />
+    <Content Include="Resources\mobilephone2_16x16.png" />
+    <Content Include="Resources\mobilephone2_16x161.png" />
+    <Content Include="Resources\next_32x32.png" />
+    <Content Include="Resources\people_16x16.png" />
+    <Content Include="Resources\people_16x161.png" />
+    <Content Include="Resources\previous_16x16.png" />
+    <Content Include="Resources\previous_32x32.png" />
+    <Content Include="Resources\printer.png" />
+    <None Include="Resources\printer_32x32.png" />
+    <Content Include="Resources\printpreview_16x16.png" />
+    <None Include="Resources\printpreview_16x161.png" />
+    <Content Include="Resources\printpreview_32x32.png" />
+    <None Include="Resources\printpreview_32x321.png" />
+    <Content Include="Resources\print_16x16.png" />
+    <None Include="Resources\print_16x161.png" />
+    <None Include="Resources\print_16x162.png" />
+    <Content Include="Resources\print_32x32.png" />
+    <None Include="Resources\print_32x321.png" />
+    <Content Include="Resources\productorderdetail_16x16.png" />
+    <Content Include="Resources\removeitem_16x16.png" />
+    <Content Include="Resources\removeitem_32x32.png" />
+    <Content Include="Resources\saledetalis_16x16.png" />
+    <Content Include="Resources\saveall_16x16.png" />
+    <None Include="Resources\saveall_16x161.png" />
+    <Content Include="Resources\saveall_32x32.png" />
+    <None Include="Resources\saveas_16x16.png" />
+    <None Include="Resources\saveall_32x321.png" />
+    <None Include="Resources\save_32x32.png" />
+    <None Include="Resources\save_32x321.png" />
+    <None Include="Resources\save_16x16.png" />
+    <None Include="Resources\save_32x322.png" />
+    <Content Include="Resources\separator_16x16.png" />
+    <Content Include="Resources\separator_32x32.png" />
+    <Content Include="Resources\team_16x16.png" />
+    <Content Include="Resources\team_16x161.png" />
+    <Content Include="Resources\textbox_16x16.png" />
+    <None Include="Resources\undo_16x16.png" />
+    <None Include="Resources\undo_32x32.png" />
+    <Content Include="Resources\weekend_16x16.png" />
+    <Content Include="Resources\weekend_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comment_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suggestion_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addfile_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addfile_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletelist_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletelist_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documentmap_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documentmap_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monthview_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monthview_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usergroup_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usergroup_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newitem_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newitem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newgroup_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newgroup_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emailtemplate_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emailtemplate_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublenext_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_16x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_16x167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_16x167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Show\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Omega.Dal\Omega.Dal.csproj">
+      <Project>{27f4b7fa-4430-4bf8-81a3-1d7340f692b3}</Project>
+      <Name>Omega.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Omega.Ots.Bll\Omega.Ots.Bll.csproj">
+      <Project>{667ee83a-9657-4eaa-a77d-b67145704552}</Project>
+      <Name>Omega.Ots.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Omega.Ots.Common\Omega.Ots.Common.csproj">
+      <Project>{46ac19a6-5358-48c2-8139-c640a1c0cee8}</Project>
+      <Name>Omega.Ots.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Omega.Ots.Data\Omega.Ots.Data.csproj">
+      <Project>{d135cf06-739e-44cf-855d-e66b079574ee}</Project>
+      <Name>Omega.Ots.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Omega.Ots.Model\Omega.Ots.Model.csproj">
+      <Project>{0734f5cf-5794-4e0a-9b41-17b3715278f8}</Project>
+      <Name>Omega.Ots.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Omega.Ots.UI.Win\Omega.Ots.UI.Win.csproj">
+      <Project>{84106c71-c78d-4a46-a18c-eb4250146a6e}</Project>
+      <Name>Omega.Ots.UI.Win</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
